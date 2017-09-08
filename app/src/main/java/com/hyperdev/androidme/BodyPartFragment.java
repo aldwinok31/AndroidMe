@@ -25,7 +25,7 @@ public class BodyPartFragment extends Fragment {
     private List<Integer> integerList;
     private List<Integer> viewBody;
     private List<Integer> viewLeg;
-    private Random random;
+
     private int indexCount;
     private int indexBody;
     private int indexLeg;
